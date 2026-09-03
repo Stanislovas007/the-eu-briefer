@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="assets/scales.png" width="200" alt="The EU Briefer">
+<p align="center">
+  <img src="eu-briefer-scales.png" width="360" alt="The EU Briefer">
+</p>
 
 # The EU Briefer
 
